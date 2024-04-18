@@ -14,7 +14,7 @@
 ###
 
 
- ![Leetcode Stats](https://leetcard.jacoblin.cool/ckyong826)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/ckyong826/lapor?ext=heatmap)
 
 
 ###
