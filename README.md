@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ckyong826.ckyong826&"  />
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/ckyong826)
 </div>
 
 ###
