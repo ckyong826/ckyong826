@@ -13,9 +13,9 @@
 
 ###
 
-<div align="center">
+
  ![Leetcode Stats](https://leetcard.jacoblin.cool/ckyong826)
-</div>
+
 
 ###
 
