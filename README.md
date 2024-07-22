@@ -2,8 +2,11 @@
 
 ###
 
- ![Leetcode Stats](https://leetcard.jacoblin.cool/ckyong826?ext=heatmap)
+<p align="left">I'm CK from Malaysia <br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning PostgreSQL, Redux and Machine Learning<br>- ⚡ In my free time I I do leetcode bruh</p>
 
+###
+
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/ckyong826?ext=heatmap)
 
 ###
 
@@ -11,11 +14,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm CK from Malaysia <br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning PostgreSQL, Redux and Machine Learning<br>- ⚡ In my free time I I do leetcode bruh</p>
-
-###
 
 <br clear="both">
 
