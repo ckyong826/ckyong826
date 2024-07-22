@@ -10,13 +10,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-
-<br clear="both">
-
 <h3 align="left">🛠 Language and tools</h3>
 
 <br clear="both">
