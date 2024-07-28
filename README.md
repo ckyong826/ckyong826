@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm CK from Malaysia <br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning PostgreSQL, Redux and Machine Learning<br>- ⚡ In my free time I I do leetcode bruh</p>
+<p align="left">I'm CK from Malaysia <br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning ... I think this is a long journey of learning everything in this field...<br>- ⚡ In my free time I I do leetcode bruh</p>
 
 ###
 
